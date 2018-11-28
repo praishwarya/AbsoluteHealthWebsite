@@ -1,0 +1,44 @@
+body {
+	background-image: url("images/stats/background.jpg");
+}
+
+#subnavbar {
+	background-color: rgba(20, 20, 20, 0.75);
+	margin-top: 47px;
+}
+
+#subnav {
+	background-color: rgba(20, 20, 20, 0.75);
+	width : 20%;
+	position : absolute;
+	top: 47px;
+	left: 40%;
+	padding: 0px;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	font-size: 60px;
+}
+
+.bodydivs {
+	float: left;
+	width: 50%;
+}
+
+.bodydivs * {
+	margin: 5px 0px 5px 5px;
+}
+
+label {
+	color: white;
+	display: block;
+}
+
+#addex {
+	border: 2px solid white;
+	color: white;
+}
